@@ -1,0 +1,40 @@
+body {background-color: black;}
+
+h1{color: white;}
+h1{font-size: 340%}
+h1{text-align: center;}
+h1{border: solid 3PX rgba ()247, 247, 6, 0.884;}
+
+h2 {font-size: 150%}
+h2 {color: white;}
+h2{text-align: center;}
+h2{word-spacing: 30%;}
+
+#BODY {margin-right: 30%;}
+#BODY {width: 40%;}
+#BODY {size: -1000; }
+#BODY {border-color: yellow;}
+
+#cut {margin-right: 30%;}
+#cut {width: 40%;}
+#cut {size: -1000; }
+#cut {border-color: yellow;}
+
+#ar {margin-right: 30%;}
+#ar {width: 40%;}
+#ar {size: -1000; }
+#ar {border-color: yellow;}
+
+#BODY {margin-left: 29%;}
+#BODY {border: solid white}
+
+#cut {margin-left: 29%;}
+#cut {border: solid white}
+
+#ar {margin-left: 29%;}
+#ar {border: solid white}
+
+
+
+
+
